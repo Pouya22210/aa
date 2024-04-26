@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8857
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\my games\block breaker\block breaker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\my games\block breaker\block breaker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\my games\block breaker\block breaker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\my games\block breaker\block breaker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\my games\block breaker\block breaker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\my games\block breaker\block breaker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\my games\block breaker\block breaker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\my games\block breaker\block breaker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.313 seconds
+Platform assembly: E:\my games\block breaker\block breaker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\my games\block breaker\block breaker_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1080 59Hz; virtual: 2560x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.984586 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.513575 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.592298 ms (FindLiveObjects: 0.046614 ms CreateObjectMapping: 0.053456 ms MarkObjects: 0.468707 ms  DeleteObjects: 0.021382 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.796289 ms
+
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.697073 ms (FindLiveObjects: 0.047041 ms CreateObjectMapping: 0.033784 ms MarkObjects: 0.345970 ms  DeleteObjects: 0.269421 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: f70 -> priority: 1 
+  Thread -> id: 1ae8 -> priority: 1 
+  Thread -> id: 1848 -> priority: 1 
+  Thread -> id: 1810 -> priority: 1 
